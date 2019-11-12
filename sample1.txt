@@ -9,3 +9,9 @@ this is a new change
 =======
 This sample file now i can change here and this line online change ok?
 >>>>>>> refs/remotes/origin/master
+
+
+
+red 
+local
+blue
