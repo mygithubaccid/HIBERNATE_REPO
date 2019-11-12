@@ -1,2 +1,6 @@
 This is first line
 This is second line
+<<<<<<< HEAD
+=======
+This is third line
+>>>>>>> refs/remotes/origin/master
