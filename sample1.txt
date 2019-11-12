@@ -3,3 +3,5 @@ This sample file now i can change here and this line so what man?
 =======
 This sample file now i can change here and this line nothing to do man?
 >>>>>>> master
+how can i see
+this is a new change
