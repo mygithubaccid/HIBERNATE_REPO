@@ -3,3 +3,4 @@ This sample file now i can change here and this line so what man?
 =======
 This sample file now i can change here and this line nothing to do man?
 >>>>>>> master
+This sample file now i can change here and this line online change ok?
